@@ -5,6 +5,8 @@
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
+<a href="https://rafaluckk.github.io/semana-frontend-mundo-invertido/">Acesse aqui</a>
+
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
